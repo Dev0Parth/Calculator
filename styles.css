@@ -38,6 +38,10 @@ footer p {
   color: #ccc;
 }
 
+footer p span {
+  color: red;
+}
+
 .container {
   position: absolute;
   top: 50%;
