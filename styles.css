@@ -79,6 +79,9 @@ footer p {
   color: #ffffff;
   cursor: pointer;
   font-weight: bold;
+  --webkit-user-select: none;
+  --ms-user-select: none;
+  user-select: none;
 }
 
 .btn:hover {
